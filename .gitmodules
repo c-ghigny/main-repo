@@ -1,0 +1,3 @@
+[submodule "schema-repo"]
+	path = schema-repo
+	url = git@github.com:c-ghigny/schema-repo.git
